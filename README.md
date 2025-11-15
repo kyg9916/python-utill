@@ -19,7 +19,7 @@
 
 ---
 
-### 2. 💰 로또 시뮬레이션 및 통계 기반 번호 추천 (`lotto_simulator.py`)
+### 2. 💰 로또 시뮬레이션 및 통계 기반 번호 추천 (`lotto.py`)
 
 *   **파일명:** `lotto_simulator.py`
 *   **핵심 기술:** Python, `collections.Counter`
@@ -32,7 +32,7 @@
 
 ---
 
-### 3. 🤖 Gemini 기반 디스코드 AI 챗봇 (`discord_bot.py`)
+### 3. 🤖 Gemini 기반 디스코드 AI 챗봇 (`my_chat_bot.py`)
 
 *   **파일명:** `discord_bot.py`
 *   **핵심 기술:** Python, `discord.py`, Google Gemini API
